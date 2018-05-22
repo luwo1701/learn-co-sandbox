@@ -1,0 +1,1 @@
+puts (TRUE || FALSE)
